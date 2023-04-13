@@ -66,4 +66,3 @@ let resultData = []
 for (let meta in metaData){
 	console.log(metaData[meta])
 }
-
